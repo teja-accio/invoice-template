@@ -2,6 +2,7 @@ body{
 
     background-color: #000;
     font-family: Arial, Helvetica, sans-serif;
+    border-color: 1px solid #000;
   }
   
   .padding{
@@ -35,6 +36,12 @@ body{
       font-family: 'Circular Std Medium';
   }
   
+  .flex-blue{
+    display: flex; 
+    background-color: lightblue; 
+    text-align: center; 
+  }
+ 
   /* .text-dark {
       color: #3d405c !important;
   } */
